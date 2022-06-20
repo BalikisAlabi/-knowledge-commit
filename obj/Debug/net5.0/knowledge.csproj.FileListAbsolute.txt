@@ -1,0 +1,16 @@
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.csproj.AssemblyReference.cache
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.AssemblyInfoInputs.cache
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.AssemblyInfo.cs
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.csproj.CoreCompileInputs.cache
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\knowledge.exe
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\knowledge.deps.json
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\knowledge.runtimeconfig.json
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\knowledge.runtimeconfig.dev.json
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\knowledge.dll
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\ref\knowledge.dll
+C:\Users\IBCIRCUIT\Desktop\knowledge\bin\Debug\net5.0\knowledge.pdb
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.dll
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\ref\knowledge.dll
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.pdb
+C:\Users\IBCIRCUIT\Desktop\knowledge\obj\Debug\net5.0\knowledge.genruntimeconfig.cache
